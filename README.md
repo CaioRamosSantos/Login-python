@@ -7,7 +7,7 @@
 ### Sucesso ao entrar:
 ![Captura de tela 2025-01-10 135950](https://github.com/user-attachments/assets/0bf9204d-2c22-40ee-831b-643185557c57)
 
-### Erro de credênciais erradas:
+### Erro de credênciais inválidas:
 ![Captura de tela 2025-01-10 140043](https://github.com/user-attachments/assets/40d865a4-96a5-410f-a8ea-2ff411fb26cc)
 
 -------------------------------------------------------------------------------------------------------------------------
